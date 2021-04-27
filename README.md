@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cold6lanket
-- 👀 I’m interested in frontend development.
+- 👀 I’m interested in frontend and software development.
 
 
 <!---
